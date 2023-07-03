@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mateus
+ *
+ */
+module Cofrinho {
+}
